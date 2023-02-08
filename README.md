@@ -1,6 +1,6 @@
 ### Olá, me chamo Juliana
 
-Estou cursando o último ano de Ciência da Computação.
+Cientista da computação.
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="80px" />
